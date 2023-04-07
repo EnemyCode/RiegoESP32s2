@@ -1,1 +1,1 @@
-# RiengoESP32s2
+# RiegoESP32s2
